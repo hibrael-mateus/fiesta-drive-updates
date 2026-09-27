@@ -1,0 +1,8 @@
+{
+  "version": "1.5.0",
+  "versionCode": 8,
+  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/hm-financas-v1.5.0/HM-Financas-1.5.0-arm64.apk",
+  "sha256": "daf7d27ecfe8a9dc7b2e73952d978bb9fc1f8d6e6e782c2263abdb4a44ce46e8",
+  "notes": "Atualizador interno do APK: verifica novas versões, baixa o arquivo, valida SHA-256 e abre o instalador do Android.",
+  "publishedAt": "2026-09-27"
+}
