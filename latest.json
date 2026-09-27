@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.10.1",
-  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.1/FiestaDrive-v1.10.1.apk",
-  "sha256": "BCFDC2941711CCC3A952E5A4EB6974B360D5ABB7BE917F87BDAD9285A833E51C",
+  "versionCode": 23,
+  "versionName": "1.10.2",
+  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.2/FiestaDrive-v1.10.2.apk",
+  "sha256": "D28762CC73A3741E164540EEEF324A37179214B45738C2E48237AE65CCE642F9",
   "minSdk": 23,
-  "notes": "Atualização online pelo launcher, download seguro, rollback preservado e captura guiada de portas e sinais CAN/MCU da K2401."
+  "notes": "Rolagem do menu de aplicativos mais rápida e responsiva ao toque, mantendo atualização segura e rollback."
 }
