@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "1.10.2",
-  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.2/FiestaDrive-v1.10.2.apk",
-  "sha256": "D28762CC73A3741E164540EEEF324A37179214B45738C2E48237AE65CCE642F9",
+  "versionCode": 25,
+  "versionName": "1.10.4",
+  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.4/FiestaDrive-v1.10.4.apk",
+  "sha256": "3A08F6E00D61431D8B98C0352B7DE77D1DFBA79605CABF8FB497D5B28469CA04",
   "minSdk": 23,
-  "notes": "Rolagem do menu de aplicativos mais rápida e responsiva ao toque, mantendo atualização segura e rollback."
+  "notes": "Corrige a instalação das atualizações em centrais que abriam o player de vídeo. O APK agora é entregue diretamente ao instalador do Android."
 }
