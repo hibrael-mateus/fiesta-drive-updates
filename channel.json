@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.10.4",
-  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.4/FiestaDrive-v1.10.4.apk",
-  "sha256": "3A08F6E00D61431D8B98C0352B7DE77D1DFBA79605CABF8FB497D5B28469CA04",
+  "versionCode": 27,
+  "versionName": "1.10.6",
+  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.6/FiestaDrive-v1.10.6.apk",
+  "sha256": "CF7F7902A7AD80A64592BEA18288E36ADE6B99444F85C7E5041B84F0CF88221C",
   "minSdk": 23,
-  "notes": "Corrige a instalação das atualizações em centrais que abriam o player de vídeo. O APK agora é entregue diretamente ao instalador do Android."
+  "notes": "Versão de teste K2401: carroceria e rodas corrigidas, sem pontos brancos; atalho ZLINK com ícone real quando disponível. Confirme a instalação no Android e valide imagem, áudio e toque na central."
 }
