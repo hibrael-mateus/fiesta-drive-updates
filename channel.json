@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.10.6",
-  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.6/FiestaDrive-v1.10.6.apk",
-  "sha256": "CF7F7902A7AD80A64592BEA18288E36ADE6B99444F85C7E5041B84F0CF88221C",
+  "versionCode": 33,
+  "versionName": "1.10.7-rc6",
+  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.7-rc6/FiestaDrive-v1.10.7-rc6.apk",
+  "sha256": "94B60D56A48DAA7C73B764FEDBFB04A12B965E495554520404B7F13F7B1D7A4C",
   "minSdk": 23,
-  "notes": "Versão de teste K2401: carroceria e rodas corrigidas, sem pontos brancos; atalho ZLINK com ícone real quando disponível. Confirme a instalação no Android e valide imagem, áudio e toque na central."
+  "notes": "Candidato K2401: volante redesenhado, checklist real, orientação para falhas de instalação, qualidade GPS e proteção de memória. Testado no emulador; CAN, câmera, volante físico e Android Auto independente ainda não foram validados. Confirme a instalação no Android."
 }
