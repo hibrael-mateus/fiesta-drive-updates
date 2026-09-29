@@ -1,0 +1,12 @@
+{
+  "channel": "test",
+  "versionCode": 36,
+  "versionName": "1.10.8-rc2",
+  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.8-rc2/FiestaDrive-v1.10.8-rc2.apk",
+  "sha256": "34E136F14E3D11C7985207EA5E39202EE5C6AD706D7F24379405F4349243F2C7",
+  "minSdk": 23,
+  "notes": "Teste experimental do núcleo do futuro receptor: sessões protegidas contra callbacks atrasados, remontagem limitada de quadros e pré-verificação de hardware com horário no pacote de suporte. Não projeta Android Auto sem um receptor externo; ZLINK reserva continua disponível.",
+  "validation": "candidate",
+  "signatureAlgorithm": "SHA256withRSA",
+  "signature": "yNf1Qm1vrN7EWgG6MTC3aLPLT3WW8dz2YTwXlFYjjc3B0Y2569ATgBtHgNijhLjosbe9c7bZExiO3o6b4PjmYG77pIvkGX8LqeNvOXB+4XG4HyF5k/OJCY2aE6RXazNiJlTz7uvhtNLYtYAmTAZxK+y5/G4OCGaJdCIlJRAkHFnnB25udGhhUXuXQmoJgkg16pKf3Mx296Mwnoveim3L1WrW6tMQemIoxU56YaK7p1IBDcgRM36VpwG5u/izmbh82YnFOEB8Ve5/Rmed9tciWgmO0uGgYcgNI4CxQ/n6nH+UOWQJkzShiF/q/CfyhQm+A6RkR60ygpY5XEOr/XlleQ=="
+}
