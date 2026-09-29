@@ -1,8 +1,12 @@
 {
-  "versionCode": 34,
-  "versionName": "1.10.7-rc7",
-  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.7-rc7/FiestaDrive-v1.10.7-rc7.apk",
-  "sha256": "03B5BD06D0651F27C0DDDF3889C5DB38506C1B9B7962F3CEC60758418739E9C4",
+  "channel": "public",
+  "versionCode": 35,
+  "versionName": "1.10.8-rc1",
+  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.8-rc1/FiestaDrive-v1.10.8-rc1.apk",
+  "sha256": "D09DE333CF1F82BC8359BC2485149FD0B2BD32CE9F2D878F82ED7D4FBF489EAE",
   "minSdk": 23,
-  "notes": "Candidato K2401: identifica falha de internet/DNS, abre o Wi-Fi, permite repetir a busca e usa URL alternativa do GitHub para o manifesto. Não cria internet quando a central está offline. Instale localmente uma vez se necessário; CAN e Android Auto independente ainda não foram validados."
+  "notes": "Candidato K2401: checklist com sessão, diagnóstico de rede com horário, aviso de discrepância Android/API, tempo de GPS legível, manifesto assinado e backup de recuperação verificado. CAN, volante, câmera e projeção seguem pendentes de teste na central.",
+  "validation": "candidate",
+  "signatureAlgorithm": "SHA256withRSA",
+  "signature": "OKCQgOwlsux13uR0xKVDljm4AJA5pYqwFqrJQ8ftUU2hDY23zEfhuioa7QqsoKmgNbK55FLwBSERA+uF1KVsAxk8fkJfo5xvRptYFwVa/t2pynCI/PPN+4FfIAo+EoezIqA6jEMSBQ2hW1/ZIUOEBHpCuO0XdWUwz8lB1G3Ujz+QC547+JfdNnA/zG+9BoVGnBpnGzahFI7uBMhYDOAcy4ZglUdEyRTWN2/d9tC1XHBE+Mhf9NbaNoGdTsvcf65oVribhFMxjDIB9U5Y7kw7MIoSzKBy+g1NDEYMTR9S+9RtXtRXlex2JqCuDVJlSfwZDVL7MKHs3TG3LBoPPlbpGw=="
 }
