@@ -1,12 +1,12 @@
 {
   "channel": "preview",
   "versionCode": 41,
-  "versionName": "1.10.9-rc4-previa",
-  "apkUrl": "https://raw.githubusercontent.com/hibrael-mateus/fiesta-drive-updates/main/previa/FiestaDrive-v1.10.9-rc4-previa.apk",
-  "sha256": "61F717B6ABF3F044311990A1E790AA0B43EC2253B8BE9784022EA2697914F90E",
+  "versionName": "1.10.9-rc4-teste",
+  "apkUrl": "https://raw.githubusercontent.com/hibrael-mateus/fiesta-drive-updates/main/previa/FiestaDrive-v1.10.9-rc4-teste.apk",
+  "sha256": "7272737ABEF339071B7D34023CE4D9716B3FF912FD4783430F3C43132891992E",
   "minSdk": 23,
-  "notes": "Prévia não oficial: ícones novos preenchidos, botão Conectar celular no cartão principal e ícone do app sem azul. Só para o app Fiesta Drive Prévia.",
+  "notes": "Prévia não oficial: ícones novos preenchidos, botão Conectar celular no cartão principal e ícone do app sem azul. Só para o app Fiesta Drive Teste.",
   "validation": "candidate",
   "signatureAlgorithm": "SHA256withRSA",
-  "signature": "uTiLIRrJrVqpzdtdmhnAm03MaxnteGglvMdfi96lABfPez2tFcIg5iF1+sb+V+Rp+FLltWhhb3pmdLwXprgji2aV/QJCL3ZYaFQ9H6tZNmBkzQ/tWoZxnNCxx6GupewUsbiSmEuxRnAaLQJWrwEWemVi4SglJvUw9wYZEH1xNw1Yis2na4YYHlo5r991J+kcOJITesDkMEBsul4zJFHlCJbY6cYWtH4/FKfiL6uWAiNOmhbGfXd9jGx0YGBPC7gjS1ve1TwlHY7X6mARP/9kRbiZGkMLqtCh7axvcTt/S0b7hhMyqJWTGrrQmfQ7OqxgjDxEwa3zfoUqGpfWv4MPLw=="
+  "signature": "UYYqdhFDK59ECfHuFi3BHbJMpf6y9cicM/8TntgDw7101p3NYr+pC11XAoDAA1EQb5fjznBd0jyUxN7c/SbKOZihBfg/VAOXz1INSCxnWOsZ6wi6X+zyTv6/PZrPk2ykzOVDzj3TaiHQjdrRWj9iSdNeI7oUoBGKaKJf75fZOwveAC3WunrgKg3ZQXPOeuoBD4RmSs4e/b4qPbySWu7m/mn0BU1kN/m8DsxdWcaFa6jzXIomfJUVYEATU21IXAIrkqUIycBr/F/+GPPRk2wrLZS5ApPklsODGZsIC5JzhIbc/24oYrc2BhDMrNBrTETxZrI1rLyughUe4+D4KSXCyw=="
 }
