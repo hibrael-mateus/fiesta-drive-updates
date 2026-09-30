@@ -1,12 +1,12 @@
 {
   "channel": "preview",
-  "versionCode": 43,
-  "versionName": "1.10.9-rc6-teste",
-  "apkUrl": "https://raw.githubusercontent.com/hibrael-mateus/fiesta-drive-updates/main/previa/FiestaDrive-v1.10.9-rc6-teste.apk",
-  "sha256": "01240C37F26C9789B7FB14424E761B30800FB5D47B0CD5CBC51CAEACE725BFB3",
+  "versionCode": 44,
+  "versionName": "1.10.9-rc7-teste",
+  "apkUrl": "https://raw.githubusercontent.com/hibrael-mateus/fiesta-drive-updates/main/previa/FiestaDrive-v1.10.9-rc7-teste.apk",
+  "sha256": "7191FC9ED6A65B7D66A003A8D081B44230192CA7FD8B55682F1EDEAA036FC283",
   "minSdk": 23,
-  "notes": "Prévia não oficial: Configurar sempre liberado, mesmo com o carro em movimento. Só para o app Fiesta Drive Teste.",
+  "notes": "Prévia não oficial: atualiza tocando no APK no app Mídia (escolha Fiesta Drive) e Configurar sempre liberado. Só para o app Fiesta Drive Teste.",
   "validation": "candidate",
   "signatureAlgorithm": "SHA256withRSA",
-  "signature": "RryIjTSi6uNQA5xzKiFgwFVCRdcYh77KRm+KiAXeDYdOquhhSDrb+MMKOMnScUuUz+jPA5/dXtppZ8vr00Rdy1aFwqkAMueLB6795AwY9IfP+WuasxgK+Kty7rXhE7m6Jv02WaSiuZNrs6yidD6gjkPLdKuCutvO2O51y11Dqp866usYRbf+ejdAGSRegHi5CHTJRlB+xcrwDm0BsYLanQg/YLHmr9nCMrQwlu39/xePwWDssjCVU/Tj2qN1TCgUYTzL+DArgA4WtQGDhb+v6t6F+ckFo0I+ENaNsFgDeTz/2Vh75aNyoFgzfvj2SALGzVAM9TiiUvpyQ0PLgefy6A=="
+  "signature": "bENnXd5YC55a0IkcQOCf9KME20hc3QyfO9TrV3yTV88rAIH4XeJPmGvRmIRuernrktS0xQhafw+8Tqmfcfo0x5BEayWyjADLtfDXfjZxuNaYvDkH0ya1ckVMpeMmY79ptSbcNsuz3HlR71xLMK+qaZ8kAeKk8fEnbmzCC+NfI8u7EoBSwZWehNCUJiltyLdYDd8L2cp9vtJBA4fL5eytK/LISIaVYPqU0BehWm1zX6IkW44VV/dfkhAPueedkN49L/Lj+QHuZw9+oyx9U9FGOcarfRRu4RIEbGePI3gYRMv38AgNO4JASw5CUzNnSQzOq2FbjDLb/krXj5s1Wspitw=="
 }
