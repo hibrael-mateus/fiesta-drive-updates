@@ -1,12 +1,12 @@
 {
   "channel": "preview",
-  "versionCode": 42,
-  "versionName": "1.10.9-rc5-teste",
-  "apkUrl": "https://raw.githubusercontent.com/hibrael-mateus/fiesta-drive-updates/main/previa/FiestaDrive-v1.10.9-rc5-teste.apk",
-  "sha256": "6E8AF33A9F52A40614E7706203A8F366EC6C2BEA67AA1FF45399B5481BDEE807",
+  "versionCode": 43,
+  "versionName": "1.10.9-rc6-teste",
+  "apkUrl": "https://raw.githubusercontent.com/hibrael-mateus/fiesta-drive-updates/main/previa/FiestaDrive-v1.10.9-rc6-teste.apk",
+  "sha256": "01240C37F26C9789B7FB14424E761B30800FB5D47B0CD5CBC51CAEACE725BFB3",
   "minSdk": 23,
-  "notes": "Prévia não oficial: corrige o Configurar travado com o carro parado em local coberto (GPS impreciso). Só para o app Fiesta Drive Teste.",
+  "notes": "Prévia não oficial: Configurar sempre liberado, mesmo com o carro em movimento. Só para o app Fiesta Drive Teste.",
   "validation": "candidate",
   "signatureAlgorithm": "SHA256withRSA",
-  "signature": "Opqor17Z7QKDvJtwdeqB+CKbsfyb5nXddRmMpgRQC2GTVpo+p/ALjVwgiTENqCX3oqKNv8phQW4whRcSiBWRMIilbTGBTLn2bsk42Q1n/gvxeWMPAWOu3Cq85qKt8BbTo1L4YWL4voAiqXD2sx4BrToQGBDe5updalwn1FEXTW83AIvmlKXilrva7jepqba1VHyYJupEki7pnOuQSotF695k+62ctD1zlcjf8T7i4ronLU5/Vi7twayraKHQgy5mXnDaSEKduX65qruzW0neGexAfS1Wu0rCi4Nlkp/go/eshWzUltn0fAmVpLUH6vRlJ2sXeNipmFLhSG+LlKvOTw=="
+  "signature": "RryIjTSi6uNQA5xzKiFgwFVCRdcYh77KRm+KiAXeDYdOquhhSDrb+MMKOMnScUuUz+jPA5/dXtppZ8vr00Rdy1aFwqkAMueLB6795AwY9IfP+WuasxgK+Kty7rXhE7m6Jv02WaSiuZNrs6yidD6gjkPLdKuCutvO2O51y11Dqp866usYRbf+ejdAGSRegHi5CHTJRlB+xcrwDm0BsYLanQg/YLHmr9nCMrQwlu39/xePwWDssjCVU/Tj2qN1TCgUYTzL+DArgA4WtQGDhb+v6t6F+ckFo0I+ENaNsFgDeTz/2Vh75aNyoFgzfvj2SALGzVAM9TiiUvpyQ0PLgefy6A=="
 }
