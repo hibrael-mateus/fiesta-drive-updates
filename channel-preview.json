@@ -1,12 +1,12 @@
 {
   "channel": "preview",
-  "versionCode": 41,
-  "versionName": "1.10.9-rc4-teste",
-  "apkUrl": "https://raw.githubusercontent.com/hibrael-mateus/fiesta-drive-updates/main/previa/FiestaDrive-v1.10.9-rc4-teste.apk",
-  "sha256": "7272737ABEF339071B7D34023CE4D9716B3FF912FD4783430F3C43132891992E",
+  "versionCode": 42,
+  "versionName": "1.10.9-rc5-teste",
+  "apkUrl": "https://raw.githubusercontent.com/hibrael-mateus/fiesta-drive-updates/main/previa/FiestaDrive-v1.10.9-rc5-teste.apk",
+  "sha256": "6E8AF33A9F52A40614E7706203A8F366EC6C2BEA67AA1FF45399B5481BDEE807",
   "minSdk": 23,
-  "notes": "Prévia não oficial: ícones novos preenchidos, botão Conectar celular no cartão principal e ícone do app sem azul. Só para o app Fiesta Drive Teste.",
+  "notes": "Prévia não oficial: corrige o Configurar travado com o carro parado em local coberto (GPS impreciso). Só para o app Fiesta Drive Teste.",
   "validation": "candidate",
   "signatureAlgorithm": "SHA256withRSA",
-  "signature": "UYYqdhFDK59ECfHuFi3BHbJMpf6y9cicM/8TntgDw7101p3NYr+pC11XAoDAA1EQb5fjznBd0jyUxN7c/SbKOZihBfg/VAOXz1INSCxnWOsZ6wi6X+zyTv6/PZrPk2ykzOVDzj3TaiHQjdrRWj9iSdNeI7oUoBGKaKJf75fZOwveAC3WunrgKg3ZQXPOeuoBD4RmSs4e/b4qPbySWu7m/mn0BU1kN/m8DsxdWcaFa6jzXIomfJUVYEATU21IXAIrkqUIycBr/F/+GPPRk2wrLZS5ApPklsODGZsIC5JzhIbc/24oYrc2BhDMrNBrTETxZrI1rLyughUe4+D4KSXCyw=="
+  "signature": "Opqor17Z7QKDvJtwdeqB+CKbsfyb5nXddRmMpgRQC2GTVpo+p/ALjVwgiTENqCX3oqKNv8phQW4whRcSiBWRMIilbTGBTLn2bsk42Q1n/gvxeWMPAWOu3Cq85qKt8BbTo1L4YWL4voAiqXD2sx4BrToQGBDe5updalwn1FEXTW83AIvmlKXilrva7jepqba1VHyYJupEki7pnOuQSotF695k+62ctD1zlcjf8T7i4ronLU5/Vi7twayraKHQgy5mXnDaSEKduX65qruzW0neGexAfS1Wu0rCi4Nlkp/go/eshWzUltn0fAmVpLUH6vRlJ2sXeNipmFLhSG+LlKvOTw=="
 }
