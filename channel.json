@@ -1,12 +1,12 @@
 {
-  "channel": "public",
-  "versionCode": 35,
-  "versionName": "1.10.8-rc1",
-  "apkUrl": "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.8-rc1/FiestaDrive-v1.10.8-rc1.apk",
-  "sha256": "D09DE333CF1F82BC8359BC2485149FD0B2BD32CE9F2D878F82ED7D4FBF489EAE",
-  "minSdk": 23,
-  "notes": "Candidato K2401: checklist com sessão, diagnóstico de rede com horário, aviso de discrepância Android/API, tempo de GPS legível, manifesto assinado e backup de recuperação verificado. CAN, volante, câmera e projeção seguem pendentes de teste na central.",
-  "validation": "candidate",
-  "signatureAlgorithm": "SHA256withRSA",
-  "signature": "OKCQgOwlsux13uR0xKVDljm4AJA5pYqwFqrJQ8ftUU2hDY23zEfhuioa7QqsoKmgNbK55FLwBSERA+uF1KVsAxk8fkJfo5xvRptYFwVa/t2pynCI/PPN+4FfIAo+EoezIqA6jEMSBQ2hW1/ZIUOEBHpCuO0XdWUwz8lB1G3Ujz+QC547+JfdNnA/zG+9BoVGnBpnGzahFI7uBMhYDOAcy4ZglUdEyRTWN2/d9tC1XHBE+Mhf9NbaNoGdTsvcf65oVribhFMxjDIB9U5Y7kw7MIoSzKBy+g1NDEYMTR9S+9RtXtRXlex2JqCuDVJlSfwZDVL7MKHs3TG3LBoPPlbpGw=="
+    "channel":  "public",
+    "versionCode":  44,
+    "versionName":  "1.10.9-rc7",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.9-rc7/FiestaDrive-v1.10.9-rc7.apk",
+    "sha256":  "E262BE07BBDF395BF34B3A69DD8D8E3DFA04582E151EE95A8F2AD13CFFEEB422",
+    "minSdk":  23,
+    "notes":  "Home renovada com carro em movimento, ícones novos e menu Configurar reorganizado. Modo condução automático pelo GPS. Android Auto ao ligar (opcional) e Início duas vezes abre o Android Auto. Atualização direta ao tocar no APK (app Mídia ou gerenciador de arquivos, escolha Fiesta Drive). Configurar sempre liberado; GPS impreciso na garagem não conta como movimento. Não inclui Android Auto próprio.",
+    "validation":  "validated",
+    "signatureAlgorithm":  "SHA256withRSA",
+    "signature":  "volT9LgFYcxGUSrsBxZQzMlUuymFydhF07NuPcNUlhvWnk1nSDotGmfdpdUVMVhHonujnhtHvqOpu6HY6T/pwjTayvN2mqWvmiGJdYxS45aixqsW6BxDNjkbq2MlQ1tp52VjNd4r9K/ULOh0mdtJv5fYSHDmaabewy1PNp4HXbkGU0FvdONPtIJx8UVjXaA08XOKskoUPodGqRSNCQhCmgKJvs1NpmV78R1mzGiiGH4JXRhy2bRa25zw7p7cZJgx+i3kifkxrZuvhoR41uzJCthEtcwwfGy++u87kYVPE52/qcqx3v0L6DYRxtOUZwjgtnB5g1tprOI/hYKXnZ9IYw=="
 }
