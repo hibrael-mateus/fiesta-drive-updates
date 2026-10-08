@@ -1,8 +1,8 @@
 {
-    "versionCode":  45,
-    "versionName":  "1.10.10",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.10/FiestaDrive-v1.10.10.apk",
-    "sha256":  "F373BB64CE9BAC960CBB5B3226FD6057B5E767442DA282C89C4F517405A31E5C",
+    "versionCode":  46,
+    "versionName":  "1.10.11",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.11/FiestaDrive-v1.10.11.apk",
+    "sha256":  "852E94849576F8A47186A89004F479FDA7818538DDDC17595201C556D6B8874A",
     "minSdk":  23,
-    "notes":  "Sem azul no app: destaques Prata e Dourado, fundos Café e Cinza e cartão Vinho; quem usava uma cor azul passa para a nova automaticamente. Novo comando de voz em Configurar \u003e Sistema ou num botão do volante (precisa de reconhecimento de fala na central): rádio, música, telefone, navegação, Android Auto, modo dia/noite. Não inclui Android Auto próprio."
+    "notes":  "Novo visual: textos maiores, mais contraste de dia e status com ícones. Novo Fiesta na Home com sombra no chão, reflexo, luz de fundo e faróis acesos à noite; em Editor do fundo \u003e Estilo do Fiesta dá para ajustar os efeitos, trocar a cor do carro ou usar a foto do seu carro. A Home animada gasta menos processador. Não inclui Android Auto próprio."
 }
