@@ -1,12 +1,12 @@
 {
     "channel":  "public",
-    "versionCode":  49,
-    "versionName":  "1.10.14",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.14/FiestaDrive-v1.10.14.apk",
-    "sha256":  "67C9AD2422AA11D18F192A6DFEF62C4767B0AA2BC037F5A2F26EFE0C2ABC9C7C",
+    "versionCode":  50,
+    "versionName":  "1.10.15",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.15/FiestaDrive-v1.10.15.apk",
+    "sha256":  "0E334B9EE5B40A6F55F6BFC3C8B67A6B40B00406AE174DC1023B34214F063D7F",
     "minSdk":  23,
-    "notes":  "O atalho Telefone da Home abre o app Telefone da central (o que faz chamadas pelo celular pareado), e não mais o discador do Android. Se preferir outro app, escolha em Configurar \u003e Atalhos e apps. Inclui as melhorias da 1.10.13. Não inclui Android Auto próprio.",
+    "notes":  "O atalho Navegação da Home abre o Google Maps quando ele está instalado. O atalho Telefone abre o app Telefone da central, e não o discador do Android. Para trocar qualquer atalho, use Configurar \u003e Atalhos e apps. Não inclui Android Auto próprio.",
     "validation":  "validated",
     "signatureAlgorithm":  "SHA256withRSA",
-    "signature":  "g+wcVQn/JZvP15KmgKP4PQPW/NI6ANephd8Kz2kCGA4VlxVqKJbIzn2V5kGcTLzkGcy9DR1UlLxMTLCQ5O+tHBq3MKQqO2RAevz5elktBxUdJBsqyDJTGmOc20g+yYtJch2tv/MFOkZ1CjvIviviUNljbd/nyJR0RF/8mK8C7dUhGVufgPhHWWP8unTKO3/09SGQGT8zWHCe9rXtLyB0rWjlPVg06OW1wmncWUQKKnwiB/X/OnjNl2sDJ5cSm31RrkJSZyKhQ2iQWKmY3FklwH4X22inOrUEI7o14xjZ7PQP0c/63Lg1yOSYusWZXHARIp3CDI9enqtoT+ZXrBRyOQ=="
+    "signature":  "MRPWfZpoybHpfwSxgDY7qfpmArHIKltvRzdANV+jBJC/GBXU9jqUfsVLq9pETO4nrGpas9a8jajV0Y2yi6tLYj6Fu6Xo1jjJmkQ9Cf0eRWYrqjpiA2+YMQsCLuhlj3+8s5Hy84PQm43K/LjpTh/uK4dG6M4hchOYs4ok4MF+Tf0Ia+cc+fOq9Tlfdpu1IRxLYOpyxJMnAScFEbl+OUEvvkHufeyLWu27qHWoD6BDLpVFgVGDTZ24apajd5WAoXm1UTPArDMFX/pufxK8vIKvVhV0FlEozhRfOo+pP3h5trtd5xwIipp2PST81ROT0fhxlb8rb9Wv9ggNIQSshcq1gQ=="
 }
