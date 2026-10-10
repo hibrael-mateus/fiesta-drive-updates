@@ -1,8 +1,8 @@
 {
-    "versionCode":  47,
-    "versionName":  "1.10.12",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.12/FiestaDrive-v1.10.12.apk",
-    "sha256":  "125938E3A4A73EFBC7007E1F7904F0D1A22BE70BA5DA7EF0009E6E73207AF817",
+    "versionCode":  48,
+    "versionName":  "1.10.13",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.13/FiestaDrive-v1.10.13.apk",
+    "sha256":  "7DB5C3AB650B3EA874A4A39B26C132FE66F3FE8A885ACF9ADED4F07DDA3502E1",
     "minSdk":  23,
-    "notes":  "O atalho Telefone abre o discador da central, nunca o app de Android Auto ou de projeção. O botão de tema mostra o modo atual: sol (Dia), lua (Noite) ou os dois (Auto). Novo ícone do app com o logo da Ford em preto e branco. Não inclui Android Auto próprio."
+    "notes":  "A instalação de atualizações não trava mais a tela e os APKs baixados são apagados depois de instalar, liberando espaço. O Modo viagem avisa que a distância só conta com o Fiesta Drive na tela. Mais estabilidade ao abrir e fechar o launcher. Não inclui Android Auto próprio."
 }
