@@ -1,12 +1,12 @@
 {
     "channel":  "public",
-    "versionCode":  46,
-    "versionName":  "1.10.11",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.11/FiestaDrive-v1.10.11.apk",
-    "sha256":  "852E94849576F8A47186A89004F479FDA7818538DDDC17595201C556D6B8874A",
+    "versionCode":  47,
+    "versionName":  "1.10.12",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.12/FiestaDrive-v1.10.12.apk",
+    "sha256":  "125938E3A4A73EFBC7007E1F7904F0D1A22BE70BA5DA7EF0009E6E73207AF817",
     "minSdk":  23,
-    "notes":  "Novo visual: textos maiores, mais contraste de dia e status com ícones. Novo Fiesta na Home com sombra no chão, reflexo, luz de fundo e faróis acesos à noite; em Editor do fundo \u003e Estilo do Fiesta dá para ajustar os efeitos, trocar a cor do carro ou usar a foto do seu carro. A Home animada gasta menos processador. Não inclui Android Auto próprio.",
+    "notes":  "O atalho Telefone abre o discador da central, nunca o app de Android Auto ou de projeção. O botão de tema mostra o modo atual: sol (Dia), lua (Noite) ou os dois (Auto). Novo ícone do app com o logo da Ford em preto e branco. Não inclui Android Auto próprio.",
     "validation":  "validated",
     "signatureAlgorithm":  "SHA256withRSA",
-    "signature":  "Se8zg2CcDijgnq/qXyZG+JI/0+mafP7w4M16S33GWso5owC7PQ6T9bHETe4KgujN30qm6mRgsbrs8qMzFxMTgvinnLz065vymcPD+TSri3mUlU+1KtMy3tS+UC3DtOZVx2SJNHE0dRhs6X9ywt4nAkEQNpnP/mTIVXAZzVSrkHVUnbtwU3p9z88vCp30xN2QdCmjLob9mmdBRsjC2dtGorFberNaX6kP2psouJ+AMIW//xSDRrQSiwVCQZJFTJkUPpp0ELpLIPs7JgPiLZRc3o541gjZkp1QfumhmL39T9k4S0hpJGxAGKAlQU9MggYJtpTgSoOuKksjP0QvFsrRxw=="
+    "signature":  "VfFBtbSoz9TMmazS8w08bKltO8x14HHWTx3yUPuHo7XIef/JHmW4lRtoxiuCajaQ8J4TvS9fWb30ldr/2yS607WjIBoKvzkztMaDS5CZ29CTvAK6ECFkZg9lwEkipi5K450kn3M6MSo6cSyQTLLZF9+OaOAJo2JrZGFVVCBC3RqKkIpDmiidoYHtlA7kaTCU/r/eL5IcPCjpOvL0Y7rUG4x3TvLLSukEhhvTmS08Ap58tgtx33Ol9O/wlfDh0wK2FeLE+eMQDWcy3dl8WP4Z6DAsLdwuvAqVXr6SrUQW6Z2KGGFGYDARFIl6eNyWXsxox3SSTXDprJSMnNzlZrCv9g=="
 }
