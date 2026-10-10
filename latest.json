@@ -1,8 +1,8 @@
 {
-    "versionCode":  50,
-    "versionName":  "1.10.15",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.15/FiestaDrive-v1.10.15.apk",
-    "sha256":  "0E334B9EE5B40A6F55F6BFC3C8B67A6B40B00406AE174DC1023B34214F063D7F",
+    "versionCode":  51,
+    "versionName":  "1.10.16",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.16/FiestaDrive-v1.10.16.apk",
+    "sha256":  "2EFBF0910DC07F7AE323D6962CCBD41D847FC699FF851F9AB25F396136DAA30A",
     "minSdk":  23,
-    "notes":  "O atalho Navegação da Home abre o Google Maps quando ele está instalado. O atalho Telefone abre o app Telefone da central, e não o discador do Android. Para trocar qualquer atalho, use Configurar \u003e Atalhos e apps. Não inclui Android Auto próprio."
+    "notes":  "A distância do Modo viagem continua contando com o ZLINK ou o rádio na frente (aparece a notificação Viagem em andamento). Em Configurar \u003e Atalhos e apps, cada atalho mostra o app que ele abre. Não inclui Android Auto próprio."
 }
