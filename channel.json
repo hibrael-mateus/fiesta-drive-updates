@@ -1,12 +1,12 @@
 {
     "channel":  "public",
-    "versionCode":  48,
-    "versionName":  "1.10.13",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.13/FiestaDrive-v1.10.13.apk",
-    "sha256":  "7DB5C3AB650B3EA874A4A39B26C132FE66F3FE8A885ACF9ADED4F07DDA3502E1",
+    "versionCode":  49,
+    "versionName":  "1.10.14",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.14/FiestaDrive-v1.10.14.apk",
+    "sha256":  "67C9AD2422AA11D18F192A6DFEF62C4767B0AA2BC037F5A2F26EFE0C2ABC9C7C",
     "minSdk":  23,
-    "notes":  "A instalação de atualizações não trava mais a tela e os APKs baixados são apagados depois de instalar, liberando espaço. O Modo viagem avisa que a distância só conta com o Fiesta Drive na tela. Mais estabilidade ao abrir e fechar o launcher. Não inclui Android Auto próprio.",
+    "notes":  "O atalho Telefone da Home abre o app Telefone da central (o que faz chamadas pelo celular pareado), e não mais o discador do Android. Se preferir outro app, escolha em Configurar \u003e Atalhos e apps. Inclui as melhorias da 1.10.13. Não inclui Android Auto próprio.",
     "validation":  "validated",
     "signatureAlgorithm":  "SHA256withRSA",
-    "signature":  "dsC565PwIVeKrvGRIo6X8SIJbwZjW5fz+mNe39IB0TOoasb9OTkAdI7Rgx4LXmgRiXP3sKjtYIqGAQVrfu34NlVOLxTl5mQw0wmOLc2FxdyZT0pPg9W9An5Arn9hRn1hBSPysPr6u4Cdy3a++hbdk4HXrhUESXrbv9mamKXLj04Og0Vp9QdrHXbTbUkG+8U79+q/a0quItw64SCre1/1rW5hAwIv3KX3psb+prel5D+tu/ZewZfEcKooO30b6dQZRwZ3ZGc0bprKgMaEFLWHzcW9aiGm6EKxKZq138e+gB71uGL2jWuKz67VbKLVtFsLpSFZt24gMFXf31hdhyoz4A=="
+    "signature":  "g+wcVQn/JZvP15KmgKP4PQPW/NI6ANephd8Kz2kCGA4VlxVqKJbIzn2V5kGcTLzkGcy9DR1UlLxMTLCQ5O+tHBq3MKQqO2RAevz5elktBxUdJBsqyDJTGmOc20g+yYtJch2tv/MFOkZ1CjvIviviUNljbd/nyJR0RF/8mK8C7dUhGVufgPhHWWP8unTKO3/09SGQGT8zWHCe9rXtLyB0rWjlPVg06OW1wmncWUQKKnwiB/X/OnjNl2sDJ5cSm31RrkJSZyKhQ2iQWKmY3FklwH4X22inOrUEI7o14xjZ7PQP0c/63Lg1yOSYusWZXHARIp3CDI9enqtoT+ZXrBRyOQ=="
 }
