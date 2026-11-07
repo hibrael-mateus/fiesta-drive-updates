@@ -1,8 +1,8 @@
 {
-    "versionCode":  53,
-    "versionName":  "1.12.0",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.12.0/FiestaDrive-v1.12.0.apk",
-    "sha256":  "F7416F4B517C8D71B7662D294E3D51F9D0F55776420AB3718185AFAD7DF884F7",
+    "versionCode":  54,
+    "versionName":  "1.12.1",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.12.1/FiestaDrive-v1.12.1.apk",
+    "sha256":  "AABE70005015D109973035929DB87A451EEF1C62E50DC4FEA4A7C5B5D5468056",
     "minSdk":  23,
-    "notes":  "Visual novo completo: gaveta de apps com ícones soltos, menus Configurar sem molduras e tela Carro com velocidade, distância e duração da viagem pelo GPS. Barra inferior ou lateral e faixa de recentes continuam em Configurar \u003e Layout. Equalizador na barra. Não inclui Android Auto próprio."
+    "notes":  "Tocando agora: título, artista e botões da música na faixa da Home (ligue o acesso em Configurar \u003e Home e barra \u003e Tocando agora). Novo Equalizador do launcher em teste, na mesma tela. Gaveta de apps, Configurar e tela Carro do 1.12.0 continuam. Não inclui Android Auto próprio."
 }
