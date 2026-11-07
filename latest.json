@@ -1,8 +1,8 @@
 {
-    "versionCode":  51,
-    "versionName":  "1.10.16",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.10.16/FiestaDrive-v1.10.16.apk",
-    "sha256":  "2EFBF0910DC07F7AE323D6962CCBD41D847FC699FF851F9AB25F396136DAA30A",
+    "versionCode":  52,
+    "versionName":  "1.11.0",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.11.0/FiestaDrive-v1.11.0.apk",
+    "sha256":  "047331BAF7D2124A7BB3E6B17A17EBD7F755FB4DC2AA9FC8C31F270EEE7A2324",
     "minSdk":  23,
-    "notes":  "A distância do Modo viagem continua contando com o ZLINK ou o rádio na frente (aparece a notificação Viagem em andamento). Em Configurar \u003e Atalhos e apps, cada atalho mostra o app que ele abre. Não inclui Android Auto próprio."
+    "notes":  "Nova Home: barra inferior mais limpa, barra lateral opcional e faixa com os apps recentes (Configurar \u003e Layout \u003e Personalizar barra). O DSP agora se chama Equalizador. A distÃ¢ncia do Modo viagem continua contando com o ZLINK ou o rÃ¡dio na frente. NÃ£o inclui Android Auto prÃ³prio."
 }
