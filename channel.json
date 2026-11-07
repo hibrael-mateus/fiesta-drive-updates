@@ -1,12 +1,12 @@
 {
     "channel":  "public",
-    "versionCode":  54,
-    "versionName":  "1.12.1",
-    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.12.1/FiestaDrive-v1.12.1.apk",
-    "sha256":  "AABE70005015D109973035929DB87A451EEF1C62E50DC4FEA4A7C5B5D5468056",
+    "versionCode":  55,
+    "versionName":  "1.12.2",
+    "apkUrl":  "https://github.com/hibrael-mateus/fiesta-drive-updates/releases/download/v1.12.2/FiestaDrive-v1.12.2.apk",
+    "sha256":  "76D61109C2255E0234CA904C381523F7F97520FF8096A75A4EF9470A9098D86D",
     "minSdk":  23,
-    "notes":  "Tocando agora: título, artista e botões da música na faixa da Home (ligue o acesso em Configurar \u003e Home e barra \u003e Tocando agora). Novo Equalizador do launcher em teste, na mesma tela. Gaveta de apps, Configurar e tela Carro do 1.12.0 continuam. Não inclui Android Auto próprio.",
+    "notes":  "Tocando agora agora mostra também a música do Bluetooth da central (título e artista), além do Android Auto e de apps com sessão de mídia. Botões anterior, play/pausa e próxima na faixa da Home. Acesso em Configurar \u003e Home e barra \u003e Tocando agora. Não inclui Android Auto próprio.",
     "validation":  "validated",
     "signatureAlgorithm":  "SHA256withRSA",
-    "signature":  "kojEx/0fAT9fODXFjR4868HSmsyO2VeiSlgfW6wLz3gq7N9Uf3PZDquyXSBXlf74lDnKAv0fGcTwez/W8JrUPYr1ljqaSAWIiNqrsS71w0xX7bfYZlg1gDoLr23nqJuTDI/Dl+tYlP5jT67NfU/Yh3jtGD7QaBbk8yySN49wNoZ0a+Lg7n+JaY4mFj6D05FT2LRv7Dksk1qa3f4/sowXNAjW6it6zIE8sYx2sw6Bvy8/HqpVOa35hI+O+2XhM8PtGBPmHgHzZX/xEaaXY370l5BHSC9qPqgFWCCR6SW/hhLTNvvOC0pNJSh/OLmgapnW09nNZZMnUPRLRlAOn8ty+Q=="
+    "signature":  "ohIrVStpAhCNQH92SqqJUqhCt9op/IvhMA3wgt7+kMpvCaEVpxuR7xUqZs6ktBL4FZGYxkaJFDP/JGtVNYtWLYNeehsu2waHU652qZ7TSD9wYkpLh4AbOqK4zwooPMkoQkbQc34I/gbHvObDvNPPDu+shebhOF5ylwro2B/Tdre1VwVwxF+oDyIiHpT3mkhazwW25sPB9SoQkF+TdyOupHXulCafeL73pcDK5aqKRj5pL5iYT73JHCU5P3Ne8n+TcuOsPYJjh6uij+Jt2SxZOWwsUie+kFwgOA4ut1IrkAAjCg2jQkh0okMTwHhWFEXkKYsp+iXdpwwDGCJRFqrbAA=="
 }
